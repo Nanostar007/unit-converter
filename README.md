@@ -22,8 +22,8 @@ All results update instantly as you type or change units.
 
 1. Make sure you have Python 3.8 or newer installed.
 2. Clone the repository:
-git clone https://github.com/yourusername/converter.git
-cd converter
+git clone https://github.com/Nanostar007/unit-converter.git
+cd unit-converter
 text3. Run the app:
 python converter.py
 textNo additional packages are required for basic use.  
